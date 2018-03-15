@@ -1,0 +1,14 @@
+
+
+.catalog:   
+    name: PRR  
+    version: 1.0.0   
+    description: |         
+       PRR - Conversation Management Module   
+    questions:   
+        - variable: "hostname"     
+        description: "Hostname of host on which diwo-cmm should hosted?"     
+        label: "Hostname:"     
+        required: true     
+        type: "string"
+
