@@ -6,9 +6,9 @@
     description: |         
        PRR - Conversation Management Module   
     questions:   
-        - variable: "hostname"     
-        description: "Hostname of host on which diwo-cmm should hosted?"     
-        label: "Hostname:"     
-        required: true     
-        type: "string"
+    - variable: "hostname"     
+      description: "Hostname of host on which diwo-cmm should hosted?"     
+      label: "Hostname:"     
+      required: true     
+      type: "string"
 
