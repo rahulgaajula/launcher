@@ -1,7 +1,7 @@
 PRR:
     image: "diwo.teranetworks.com:8123/devopshelloimage"  
-    container_name:PRR
-    hostname:PRR
+    container_name: PRR
+    hostname: PRR
     restart: always   
     volumes:    
         - /etc/timezone:/etc/timezone:ro
